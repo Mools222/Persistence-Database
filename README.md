@@ -24,6 +24,4 @@ CREATE TABLE comments (
 ### SQLite
 
 Requirements:
-
-Requirements:
 1. The SQLite JDBC Driver must be added to the project. (https://bitbucket.org/xerial/sqlite-jdbc/downloads/)
